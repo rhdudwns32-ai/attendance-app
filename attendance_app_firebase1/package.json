@@ -1,9 +1,8 @@
 {
-  "name": "attendance-app-firebase",
+  "name": "attendance-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "firebase": "^9.6.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
